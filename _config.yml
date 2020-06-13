@@ -16,3 +16,7 @@ avatar: "logo.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
