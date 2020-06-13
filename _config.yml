@@ -2,7 +2,13 @@ theme: jekyll-theme-minimal
 title: Patricia Jackman
 description: A short description of your site's purpose 2
 logo: logo.jpg
-author: Patrica Jackman
+author :
+  name : Patricia Jackman
+  email : patricia.jackman@yahoo.co.uk
+  github : username
+  twitter : username
+  feedburner : feedname
+
 navbar-links:
   About Me: "aboutme"
   Resources:
