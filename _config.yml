@@ -4,7 +4,11 @@ email: patricia.jackman@yahoo.co.uk
 description: A short description of your site's purpose
 logo: logo.jpg
 author: Patricia Jackman
+
+---
 layout: page
-title: "about"
-permalink: /about/
+title: About
+---
+
+Text for your page goes here.
 
