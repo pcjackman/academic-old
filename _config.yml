@@ -4,4 +4,6 @@ email: patricia.jackman@yahoo.co.uk
 description: A short description of your site's purpose
 logo: logo.jpg
 author: Patricia Jackman
-
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
